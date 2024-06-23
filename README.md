@@ -24,7 +24,7 @@ I will be using (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) the T
 
 Deployment is done using streamlit and make a web application movie Recommendation System.
 <p align="center">
-<img src = "https://github.com/Arupsau/End-to-End-Movie-Recomandation-System-Using-Streamlit/blob/main/Images/Recommandation_System.png">
+<img src = "https://github.com/Aditya02012004/Movie_Recommender_System/blob/main/Images/Recommendation_System.jpg">
 </p>
 
 **Future Work :**
